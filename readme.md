@@ -1,6 +1,6 @@
 # Details below on stock config
 
-Thanks to Rob for an awesome templte. 
+Thanks to Rob for an awesome template. 
 
 --------------------------------------
 
