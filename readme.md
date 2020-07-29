@@ -1,4 +1,32 @@
-# Details below on stock config
+# david-clarke.id.au
+
+### Little isolation (round 2) project.
+
+![](https://i.imgur.com/sDq2EF0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Thanks to Rob for an awesome template. 
 
