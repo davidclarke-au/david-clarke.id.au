@@ -1,15 +1,8 @@
 # david-clarke.id.au
 
-### Little isolation (round 2) project.
+### Isolation (round 2) project.
 
 ![](https://i.imgur.com/sDq2EF0.png)
-
-
-
-
-
-
-
 
 ```html
 
