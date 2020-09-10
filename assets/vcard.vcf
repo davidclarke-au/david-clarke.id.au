@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:David Clarke
+N;CHARSET=UTF-8:Clarke;David;;Mr;
+NICKNAME;CHARSET=UTF-8:Dave
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:dave@david-clarke.id.au
+TITLE;CHARSET=UTF-8:Operations Lead - Security Operations Centre - VIC
+ORG;CHARSET=UTF-8:CyberCX
+URL;type=WORK;CHARSET=UTF-8:https://david-clarke.id.au
+REV:2020-09-10T07:32:28.705Z
+END:VCARD
