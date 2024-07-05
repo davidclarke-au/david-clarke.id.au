@@ -122,7 +122,7 @@ body.page-template-page-fullsingle-me {
         line-height: 40px; } }
 
 .fs-me {
-  padding: 10vh 30vw;
+  padding: 10vh 10vw;
   overflow: hidden;
   position: absolute;
   z-index: 1000; }
